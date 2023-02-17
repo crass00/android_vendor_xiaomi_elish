@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),dagu)
+ifeq ($(TARGET_DEVICE),elish)
 
 endif
